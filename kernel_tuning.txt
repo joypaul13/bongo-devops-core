@@ -1,1 +1,1 @@
-Kernel tuning configuration
+Kernel tuning confguration
